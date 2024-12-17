@@ -1,7 +1,3 @@
-Here's the rewritten version of your **AI-FashionCreator** README in a canvas-style format, focusing on making it more user-friendly and visually structured:
-
----
-
 # AI-FashionCreator
 
 **AI-FashionCreator** is a cutting-edge tool that uses artificial intelligence to generate realistic and customizable fashion designs. With the power of advanced machine learning models, AI-FashionCreator creates stunning fashion concepts based on user inputs. Whether you're into casual wear, formal attire, or culturally specific styles like Nigerian fashion, this tool offers diverse design options.
@@ -104,7 +100,7 @@ We welcome contributions! Feel free to:
 
 ## 📜 **License**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 - see the LICENSE file for details.
 
 ---
 
@@ -114,9 +110,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Hugging Face**: For their machine learning models and tools.
 - All contributors to this project.
 
----
-
-**Note**:  
-- Replace the GitHub repository link `https://github.com/davitacols/AI-FashionCreator.git` with the actual link to your repository.
-- Include any specific credits for libraries or models used in the **Acknowledgments** section.
 
