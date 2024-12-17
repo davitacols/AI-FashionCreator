@@ -117,6 +117,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Note**:  
-- Replace the GitHub repository link `https://github.com/your-username/AI-FashionCreator.git` with the actual link to your repository.
+- Replace the GitHub repository link `https://github.com/davitacols/AI-FashionCreator.git` with the actual link to your repository.
 - Include any specific credits for libraries or models used in the **Acknowledgments** section.
 
